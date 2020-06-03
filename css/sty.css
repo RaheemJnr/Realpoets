@@ -1,0 +1,23 @@
+/*Headers*/
+#header-text {
+font-family: cursive;
+}
+#brand {
+  font-family: cursive;
+  font-size: 3rem
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: lobster;
+}
+#header-link {
+  font-family: cursive;
+}
+/* paragraph */
+.lead {
+  font-family: oald;
+  font-size: 5rem
+}
+
+a {
+  color: green;
+}
